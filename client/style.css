@@ -1,0 +1,16 @@
+.container{
+  background-color: cadetblue;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: navy;
+}
+
+button{
+  background-color: goldenrod;
+  border: 0px;
+  margin-top: 20px;
+  width: 100px;
+}
+
